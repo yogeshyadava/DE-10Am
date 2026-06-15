@@ -1,0 +1,2 @@
+# DE-10Am
+DE-AWS
